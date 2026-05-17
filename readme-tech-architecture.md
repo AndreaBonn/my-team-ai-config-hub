@@ -1,3 +1,7 @@
+> **Italiano:** [Leggi in italiano](./readme-tech-architecture-it.md)
+>
+> **Docs:** [README](./README.md) | [Security](./readme-tech-security.md)
+
 # Architecture
 
 Technical reference for AI Teams Config Hub internals.

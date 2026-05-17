@@ -1,3 +1,7 @@
+> **Italiano:** [Leggi in italiano](./readme-tech-security-it.md)
+>
+> **Docs:** [README](./README.md) | [Architecture](./readme-tech-architecture.md)
+
 # Security Audit Notes
 
 ## npm audit - Transitive Vulnerabilities (2026-05-17)

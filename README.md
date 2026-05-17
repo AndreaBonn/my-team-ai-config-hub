@@ -1,4 +1,12 @@
+> **Italiano:** [Leggi in italiano](./README.it.md)
+>
+> **Docs:** [Architecture](./readme-tech-architecture.md) | [Security](./readme-tech-security.md)
+
 # AI Teams Config Hub
+
+<p align="center">
+  <img src="./assets/logo-ai-config-hub.png" alt="AI Teams Config Hub Logo" width="200">
+</p>
 
 A web platform for technical teams to organize, share, and manage AI configurations in a collaborative workspace.
 
@@ -78,6 +86,26 @@ After verifying your email, you have two options:
 2. Click **Request Share**
 3. The channel admin receives your pull request
 4. Once approved, the asset appears in the shared section for all members
+
+---
+
+## Screenshots
+
+### Dashboard
+
+![Dashboard - Asset Grid](./assets/dashboard-asset-grid.png)
+
+### Shared Assets
+
+![Shared Assets](./assets/shared-assets-page.png)
+
+### Asset Editor
+
+![Asset Editor - Monaco](./assets/asset-editor-monaco.png)
+
+### Command Palette
+
+![Command Palette](./assets/command-palette.png)
 
 ---
 
