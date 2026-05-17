@@ -4,10 +4,6 @@
 
 # AI Teams Config Hub
 
-<p align="center">
-  <img src="./assets/logo-ai-config-hub.png" alt="AI Teams Config Hub Logo" width="200">
-</p>
-
 A web platform for technical teams to organize, share, and manage AI configurations in a collaborative workspace.
 
 **[Access the app](https://my-ai-teams-config-hub.vercel.app)**
